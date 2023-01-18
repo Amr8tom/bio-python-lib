@@ -1,16 +1,4 @@
-"""""*******************************************************************************************************************
-Name:Abdallah Osama Mohamed
-ID:20198053
-Name:Amr Hosney Eid
-ID:20198059
-Name:Amr Alaa Ali
-ID:20198060
-Name : Hadeel Ali Salim
-ID:20198097
-******************************** TA: Dina Amr *************** GROUP :B1 ********************BIOPYTHON*****************
-"""""
-
-""" Hallo in My Bio python Project this is a Docmentaion to Run this CODE BE Carefull with this Tips  
+""" Hallo in My Bio python Project this is a Docmentaion to Run this CODE BE Carefull with this Tips
 
 **************************************************Tips to run this code***********************************************
 1-firstly open Cmd 
